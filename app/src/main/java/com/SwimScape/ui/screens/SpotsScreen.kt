@@ -31,6 +31,7 @@ import androidx.lifecycle.viewmodel.compose.viewModel
 import com.swimscape.repository.SwimRepository
 import com.swimscape.ui.components.SpotSummaryCard
 import com.swimscape.viewmodel.SpotsViewModel
+import com.swimscape.viewmodel.SpotsViewModelFactory
 
 @OptIn(ExperimentalMaterial3Api::class)
 @Composable

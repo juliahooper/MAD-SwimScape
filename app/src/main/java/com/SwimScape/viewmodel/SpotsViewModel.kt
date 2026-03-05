@@ -49,9 +49,9 @@ class SpotsViewModel(
         }.onEach { _uiState.value = it }.launchIn(viewModelScope)
 
         viewModelScope.launch {
-            _uiState.update { it.copy(isLoading = true) }
+            _uiState.value = _uiState.value.copy(isLoading = true)
             repository.refreshSpotsFromFirestore()
-            _uiState.update { it.copy(isLoading = false) }
+            _uiState.value = _uiState.value.copy(isLoading = false)
         }
     }
 
