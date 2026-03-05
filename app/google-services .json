@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "944323183314",
+    "project_id": "swimscape-ecb01",
+    "storage_bucket": "swimscape-ecb01.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:944323183314:android:6533c007cd73503dfd630b",
+        "android_client_info": {
+          "package_name": "com.SwimScape.SwimScape"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxO6U8Fl_PyqH4yCTSvcxwKboQo0I60cs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:944323183314:android:a102628e0ec02547fd630b",
+        "android_client_info": {
+          "package_name": "com.swimscape"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxO6U8Fl_PyqH4yCTSvcxwKboQo0I60cs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
