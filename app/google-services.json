@@ -1,13 +1,13 @@
 {
   "project_info": {
-    "project_number": "123456789012",
-    "project_id": "swimscape-placeholder",
-    "storage_bucket": "swimscape-placeholder.appspot.com"
+    "project_number": "944323183314",
+    "project_id": "swimscape-ecb01",
+    "storage_bucket": "swimscape-ecb01.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:123456789012:android:abcdef123456",
+        "mobilesdk_app_id": "1:944323183314:android:a102628e0ec02547fd630b",
         "android_client_info": {
           "package_name": "com.swimscape"
         }
@@ -15,7 +15,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "placeholder-key-replace-with-real-firebase-config"
+          "current_key": "AIzaSyDxO6U8Fl_PyqH4yCTSvcxwKboQo0I60cs"
         }
       ],
       "services": {
